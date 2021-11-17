@@ -29,4 +29,6 @@ THEN I find a concise, descriptive title
 
 The refactored web page can be viewed here.
 
-![Horiseon - Home Page](https://nataliapost11.github.io/homework-coderefactor/)(./assets/images/application.jpg)
+Application URL - https://nataliapost11.github.io/homework-coderefactor/
+
+![Horiseon - Home Page](assets/images/application.jpg)
